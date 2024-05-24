@@ -17,8 +17,6 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 News
 ==================================================================================================================
 
-Certainly! Here's the corrected version:
-
 - **[2024. Mar]** "Efficient Pruning of DenseNet via a Surrogate-Model-Assisted Genetic Algorithm" has been accepted at the GECCO 2024 poster session! I will attend GECCO 2024 as an online presenter.
 
 - **[2024. Jan]** "Genetic Algorithm-based Pruning for Efficient DenseNet Architecture" has been accepted at the International Conference on Artificial Intelligence in Information and Communication (ICAIIC) 2024!
