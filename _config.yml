@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jingeun Kim / Site Title"
+title                    : "Jingeun Kim"
 title_separator          : "-"
 name                     : &name "Jingeun Kim"
 description              : &description "personal description"
