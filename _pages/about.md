@@ -10,7 +10,7 @@ redirect_from:
 Hi, I'm Jingeun Kim, Computer Science Ph.D. student at Gachon University, advised by Prof. Yourim Yoon.
 I recieved B.S & M.S. in Computer Engineering at Gachon University.
 
-Currently, I am planning to withdraw from Gachon University and am looking for a PhD position at a new school.
+Currently, I am planning to withdraw from Gachon University and am looking for a PhD position at other university.
 
 Feel free to reach out if you'd like to chat or collaborate with me.
 
