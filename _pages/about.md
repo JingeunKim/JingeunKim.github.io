@@ -14,8 +14,10 @@ Currently, I am planning to withdraw from Gachon University and am looking for a
 
 Feel free to reach out if you'd like to chat or collaborate with me.
 
-News
+***News***
 ==================================================================================================================
+
+- **[2024. Jun]** "Improving Modularity Score of Community Detection Using Memetic Algorithms" has been accepted at the AIMS mathematics!
 
 - **[2024. Mar]** "Efficient Pruning of DenseNet via a Surrogate-Model-Assisted Genetic Algorithm" has been accepted at the GECCO 2024 poster session! I will attend GECCO 2024 as an online presenter.
 
