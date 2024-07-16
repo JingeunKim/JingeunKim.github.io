@@ -10,7 +10,8 @@ redirect_from:
 Hi, I'm Jingeun Kim, Computer Science Ph.D. student at Gachon University, advised by Prof. Yourim Yoon.
 I recieved B.S & M.S. in Computer Engineering at Gachon University.
 
-Currently, I am planning to withdraw from Gachon University and am looking for a PhD position at other university.
+My research primarily focuses on developing efficient machine learning frameworks. Specifically, I aim to explore efficient models using neural architecture search based on genetic algorithms. Furthermore, I am currently working on model compression, particularly pruning, using genetic algorithms for CNN-based models and pre-trained language models.
+
 
 Feel free to reach out if you'd like to chat or collaborate with me.
 
