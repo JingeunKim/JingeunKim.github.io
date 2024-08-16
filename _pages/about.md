@@ -12,8 +12,6 @@ I recieved B.S & M.S. in Computer Engineering at Gachon University.
 
 My research primarily focuses on developing efficient machine learning frameworks. Specifically, I aim to explore efficient models using neural architecture search based on genetic algorithms. Furthermore, I am currently working on model compression, particularly pruning, using genetic algorithms for CNN-based models and pre-trained language models.
 
-***I'm planning to drop out of Gachon University and find Ph.D. position at another university.***
-
 Feel free to reach out if you'd like to chat or collaborate with me.
 
 ***News***
