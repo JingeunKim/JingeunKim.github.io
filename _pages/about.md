@@ -19,4 +19,4 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 - **[2025. May]** "Pruning for Efficient DenseNet via Surrogate-Model-Assisted Genetic Algorithm considering Neural Architecture Search Proxies" has been accepted at Swarm and Evolutionary Computation!
   
-- **[2025. Mar]** "Sparse Transformer for Long-term Forecasting via Genetic Algorithm" has been accepted at the GECCO 2024 poster session! I will attend GECCO 2025 as an online presenter.
+- **[2025. Mar]** "Sparse Transformer for Long-term Forecasting via Genetic Algorithm" has been accepted at the GECCO 2025 poster session! I will attend GECCO 2025 as an online presenter.
