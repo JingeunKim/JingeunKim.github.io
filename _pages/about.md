@@ -16,6 +16,7 @@ Feel free to reach out if you'd like to chat or collaborate with me.
 
 ***News***
 ==================================================================================================================
+- **[2025. Sep]** "From Forecast to Action: Uncertainty-Aware UAV Deployment for Ocean Drifter Recovery" has been accepted at CIKM Workshop on Spatio-Temporal Data Intelligence and Foundation Models 2025
 
 - **[2025. May]** "Pruning for Efficient DenseNet via Surrogate-Model-Assisted Genetic Algorithm considering Neural Architecture Search Proxies" has been accepted at Swarm and Evolutionary Computation!
   
