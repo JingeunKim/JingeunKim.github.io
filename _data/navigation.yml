@@ -4,5 +4,5 @@ main:
     
   - title: "CV"
     url: /files/Jingeun Kim CV.pdf
-    
-
+  - title: "GECCO 2026"
+    url: /files/gecco2026_poster_final.pdf
